@@ -1,0 +1,43 @@
+@charset "utf-8";
+
+body {
+    background: linear-gradient(to bottom, #92E3DA, #ffffff);
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", 
+                 "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+
+table {
+    background-color: #FFAE85;
+    border-radius: 15px;
+    margin: auto;
+}
+
+h1 {
+    font-size: 36px;
+    color: #2C7A7B;
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    font-size: 28px;
+    color: #1E5F5B;
+}
+
+h3 {
+    font-size: 22px;
+    color: #144C4A;
+}
+
+
+p {
+    font-size: 16px;
+    color: #333333;
+    font-family: Verdana, Geneva, sans-serif;
+}
+
+
+.tam1 {
+    width: 195px;
+    height: 100px;
+}
+
